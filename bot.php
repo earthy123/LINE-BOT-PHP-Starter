@@ -44,5 +44,6 @@ if (!is_null($events['events'])) {
 		}
 	}
 }
-echo "OKay";
+echo "OKay1";
+echo $messages;
  ?>
